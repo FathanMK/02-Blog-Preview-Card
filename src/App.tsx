@@ -2,7 +2,7 @@ export default function App() {
   return (
     <div className="screen">
       <div className="card">
-        <img className="image" src="/images/illustration-article.svg" />
+        <img className="image" src="images/illustration-article.svg" />
         <span className="tag">Learning</span>
         <span style={{ marginTop: ".55rem" }}>Published 21 Dec 2023</span>
         <h1 className="title">HTML & CSS Foundations</h1>
@@ -11,7 +11,7 @@ export default function App() {
           content, and presentation.
         </p>
         <div className="author">
-          <img className="avatar" src="/images/image-avatar.webp" />
+          <img className="avatar" src="images/image-avatar.webp" />
           <p className="name">Grey Hopper</p>
         </div>
       </div>
